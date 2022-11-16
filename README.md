@@ -2,4 +2,4 @@
 Formation GIT
 coucou
 hello
-GITGIT
+GITHUB
